@@ -1,0 +1,7 @@
+{
+  "extends": "stylelint-config-standard",
+  "ignoreFiles": ["src/**/*.ts", "src/**/*.tsx", "node_modules/**/*.css"],
+  "rules": {
+    "indentation": 2
+  }
+}
